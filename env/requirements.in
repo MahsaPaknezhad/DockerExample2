@@ -1,0 +1,15 @@
+dvc
+dvc[s3]
+numpy==1.26
+pandas==2.2.0
+matplotlib==3.8.2
+scikit-learn==1.4.0
+tqdm==4.66.1
+git+ssh://git@github.com/private_project.git@main
+ipykernel
+missingno==0.5.2
+pyrolite==0.3.4
+xgboost==2.0.3
+tsfresh==0.20.2
+shap==0.44.1
+geopandas==0.14.2
