@@ -1,7 +1,7 @@
-# Example of Creating a Dockerfile for a Conda Environment
+# Example of Creating a Docker Container and a Conda Environment Within It
 
 This example shows:
-* How to create a conda venv using a Dockerfile
+* How to create a docker container and create a cond environment in the container using a Dockerfile
 * How to clone and install a private GitHub repository using a SSH key in the conda venv. 
 
 # Instructions
